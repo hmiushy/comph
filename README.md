@@ -38,4 +38,8 @@ You can see the result like this: <br>
 <img src="./png/fig4_reg0.png" width="150px">
 <img src="./png/fig5_reg1.png" width="150px">
 <img src="./png/fig6_reg2.png" width="150px">
-<img src="./png/fig7_reg3.png" width="150px"> <br>
+<img src="./png/fig7_reg3.png" width="150px"> <be>
+
+#
+-------------
+<img src="./png/contents.pdf" width="150px">
