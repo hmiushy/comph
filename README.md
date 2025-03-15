@@ -42,4 +42,4 @@ You can see the result like this: <br>
 
 #
 -------------
-<img src="./png/contents.pdf" width="150px">
+[Open PDF](./png/contents.pdf)
